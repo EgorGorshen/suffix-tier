@@ -1,0 +1,13 @@
+[package]
+name = "suffix_trie"
+version = "0.1.0"
+authors = ["Egor Gorshenckov <egorgorshenckov@yandex.ru>"] 
+edition = "2021" 
+description = "Suffix trie for searching"
+license = "MIT" 
+repository = "https://github.com/EgorGorshen/suffix-tier" 
+keywords = ["suffix", "trie", "data-structure"]
+categories = ["data-structures"]
+readme = "README.md"
+
+[dependencies]
